@@ -7,8 +7,7 @@ from math import sin, cos, pi
 import random
 
 
-winsound.PlaySound("Running in the 90s.wav", 
-                   winsound.SND_ASYNC + winsound.SND_LOOP)
+
 
 #window size
 WINDOW_WIDTH = 700
