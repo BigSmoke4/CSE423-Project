@@ -6,7 +6,7 @@ import winsound
 from math import sin, cos, pi
 import random
 
-#DRIVE UNTIL DEATH GAME
+
 winsound.PlaySound("Running in the 90s.wav", 
                    winsound.SND_ASYNC + winsound.SND_LOOP)
 
